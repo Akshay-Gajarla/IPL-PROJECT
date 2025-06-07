@@ -1,8 +1,6 @@
 # 🏏 IPL Dashboard Project – Power BI
 
-This project is an interactive **Power BI dashboard** built using Indian Premier League (IPL) data to uncover exciting insights about teams, players, venues, and match outcomes. It demonstrates strong skills in data visualization, DAX, data modeling, and storytelling with data.
-
-![IPL Power BI Dashboard](preview-image-link-if-any.png) <!-- Optional image link -->
+This project is an interactive **Power BI dashboard** built using Indian Premier League (IPL) data to uncover exciting insights about teams, players, venues, and match outcomes. It demonstrates strong skills in data visualization, DAX, data modeling, and storytelling with data
 
 ---
 
