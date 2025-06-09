@@ -58,7 +58,6 @@ If you're hiring for data roles or just want to collaborate, feel free to reach 
 
 - 💼 [LinkedIn]: https://www.linkedin.com/in/akshay-gajarla-271b252b7/
 - 📨 Email: akshaygajarla30@gmail.com
-- 📁 Portfolio: https://akshays-data.lovable.app/
 
 ---
 
